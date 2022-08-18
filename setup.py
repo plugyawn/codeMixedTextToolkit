@@ -15,7 +15,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
   name="code_mixed_text_toolkit",
-  version="0.1.0",
+  version="0.1.1",
   description="A library for processing Code Mixed Text. Still in development!",
   long_description_content_type="text/markdown",
   long_description=long_description,

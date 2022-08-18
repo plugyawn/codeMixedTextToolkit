@@ -1,5 +1,5 @@
 # Code-Mixed-Text-Toolkit
-A library for processing Code Mixed Text. Still in development!
+A library for processing Code Mixed Text. Still in development! Published for testing purposes.
 
 ### Installation
 ```
